@@ -1,0 +1,10 @@
+{
+    "firmwareURL": "https://raw.githubusercontent.com/ShashankBoddu/BooTLoader/master/version_1.bin",
+    "firmwareSize": 348432,
+    "firmwareVersion": "1.0.0",
+    "checksum": "abcd1234ef567890abcd1234ef567890",
+    "additionalInfo": {
+        "releaseDate": "2023-01-01",
+        "description": "This update includes performance improvements and bug fixes."
+    }
+}
